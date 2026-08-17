@@ -1,0 +1,1 @@
+- [GitHub push authentication](github-push-auth.md) — use a transient askpass helper for authenticated pushes; do not persist tokens in remotes or config.
