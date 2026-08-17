@@ -1,1 +1,2 @@
 - [GitHub push authentication](github-push-auth.md) — use a transient askpass helper for authenticated pushes; do not persist tokens in remotes or config.
+- [Word package validation](docx-package-validation.md) — validate markup-compatibility prefixes and preserve all non-namespace document content when repairing DOCX files.
